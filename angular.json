@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "oshop"
+    }
+  },
+  "defaultProject": "oshop",
+  "cli": {
+    "analytics": "d0173dc9-d507-42d3-a823-1b68df82be83"
+  }
 }
